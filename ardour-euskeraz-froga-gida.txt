@@ -5,12 +5,12 @@ Gida hau GNU/Linux banaketetara bideratuta dago, ez baitugu jakintza handirik be
 Emandako karpeten izen guztiak adibidezkoak izango dira. Git plataforma kontrolatzen baduzu, kopiatu
 https://github.com/Porrumentzio/ardour biltegia eta egin salto "2) WAF-ekin KONPILATZEN" puntura.
 
-							ADI!!!
+					ADI!!!
 		Kontutan hartu Ardour euskaraz ikusi ahal izateko,
 	zuen sistemako lokalak (hizkuntza) euskaraz eduki beharko dituzula.
 		Honela ez bada, aldatu hori aurrera jarraitu baino lehen.
 
-						ADI BERRIZ!!!
+					ADI BERRIZ!!!
 	Itzultzen ari garenok bi lagun besterik ez garela kontutan hartuta,
 				itzulpenak pixkanaka eguneratzen goaz.
 	Hori dela eta, itzuli gabeko zatiren batekin topo egiten baduzu,
