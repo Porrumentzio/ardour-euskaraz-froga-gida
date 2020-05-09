@@ -68,6 +68,17 @@ eta exekutatu komado hau:
 	Posible da, guri gertatu zaigun moduan, C++ programazio-hizkuntza konpilatzeko beharrezkoa den "boost" paketea instalatua ez eduki
 	edo bertsio zaharregi bat edukitzea (boost-ek 1.56 baino bertsio berriago izan beharra dauka).
 	Hau konpontzeko, instalatu 1.56 baino berriagoa den boost-en bertsio bat eta joan berriro 2 puntura.
+	
+	Beste pakete batzuk Debianen oinarritutako banaketetan:
+	alsa -> libasound-dev
+	libpulse -> libpulse-dev
+	glibmm 2.4 -> libglibmm-2.4-dev
+	sndfile -> libsndfile1-dev
+	libcurl -> libcurl-ocaml-dev
+	libarchive -> libarchive-dev
+	liblo -> liblo-dev
+	taglib -> libtag1-dev
+	
 
 
 
