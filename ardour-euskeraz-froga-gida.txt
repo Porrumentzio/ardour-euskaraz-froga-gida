@@ -78,6 +78,23 @@ eta exekutatu komado hau:
 	libarchive -> libarchive-dev
 	liblo -> liblo-dev
 	taglib -> libtag1-dev
+	vamp-sdk -> vamp-plugin-sdk
+	rubberband -> librubberband-dev
+	libudev -> libudev-dev
+	fftw3f -> libfftw3-dev
+	aubio -> libaubio-dev
+	libxml-2.0 -> libxml++2.6-dev
+	libusb-1.0 -> libusb-1.0-0-dev
+	cwiid -> libcwiid-dev
+	libwebsockets -> libwebsockets-dev
+	pangomm-1.4 -> libpangomm-1.4-dev
+	lrdf -> liblrdf0-dev
+	samplerate -> libsamplerate0-dev
+	serd-0 -> libserd-dev
+	sord-0 -> libsord-dev
+	sratom-0 -> libsratom-dev
+	lilv-0 -> liblilv-dev
+	gtkmm-2.4 -> libgtkmm-2.4-dev
 	
 
 
