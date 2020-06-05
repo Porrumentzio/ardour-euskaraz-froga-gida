@@ -96,7 +96,9 @@ eta exekutatu komado hau:
 	lilv-0 -> liblilv-dev
 	gtkmm-2.4 -> libgtkmm-2.4-dev
 	
-
+	Manjaro SEan:
+	Octopi-n "base-devel" taldea eta "boost" paketea instalatu.
+	
 
 
 3) AKATSEN BERRI EMATEA eta LAGUNTZA
