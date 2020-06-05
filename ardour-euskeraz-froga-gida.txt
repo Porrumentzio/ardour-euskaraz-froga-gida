@@ -97,7 +97,14 @@ eta exekutatu komado hau:
 	gtkmm-2.4 -> libgtkmm-2.4-dev
 	
 	Manjaro SEan:
-	Octopi-n "base-devel" taldea eta "boost" paketea instalatu.
+	Octopi-n "base-devel" taldea eta pakete hauek instalatu:
+		-boost
+		-liblo
+		-vamp-sdk
+		-rubberband
+		-aubio
+		-lv2
+		-gtkmm
 	
 
 
